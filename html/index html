@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>olivia bloodworth</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="https://images.squarespace-cdn.com/content/v1/5d20a2db87068e0001cba89a/322124dd-bd8d-4ad3-be01-a8ac6a870dfe/B6734B75-08CB-4A6C-AE8A-BF13541A87AC.png?format=200w" alt="olivia profile picture" /></td>
+      <td><h1>Olivia Bloodworth</h1>
+      <p>
+        <em>Freelance Artist and <strong>Designer</strong></em><br />
+        <em>graduate of <strong> UAL</strong> (london college of fashion) </em><br />
+      </p>
+      <p>
+        <a href="contact.html">Contact me </a><br />
+        <a href="https://www.obloodworth.com/">My Website</a><br />
+      </p>
+      <p>i dont know what to write i am learning to code ignore all of this </p></td>
+    </tr>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>UAL london college of fashion <em>(1st BA Hons)</em></li>
+    <li> UAL art foundation <em>(distinction)</em></li>
+  </ul>
+  <p>
+    <hr />
+    <table>
+      <thead>
+        <tr>
+          <th>dates</th>
+          <th>work</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>2020</td>
+          <td>started a buisness</td>
+        </tr>
+        <tr>
+          <td>2019</td>
+          <td>graduated lcf</td>
+        </tr>
+      </tbody>
+      <tfoot>
+
+      </tfoot>
+    </table>
+  </p>
+
+<p>
+  <a href="interests.html">My interests</a>
+</p>
+<hr />
+<h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td><table>
+      <tr>
+      <td>adobe photoshop</td>
+      <td>✨✨✨✨✨</td>
+      </tr>
+      <td>adobe illustrator</td>
+      <td>✨✨✨</td>
+      <tr>
+      <td>procreate</td>
+      <td>✨✨✨✨✨</td>
+      </tr>
+    </table>
+  </td>
+    <td><table>
+      <tr>
+      <td>flat pattern cutting</td>
+      <td>✨✨✨✨</td>
+      </tr>
+      <td>tailoring</td>
+      <td>✨✨✨</td>
+      <tr>
+      <td>3D pattern cutting</td>
+      <td>✨✨✨✨✨</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+</body>
+
+</html>
